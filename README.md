@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Karen 👋
 
-<!--
-**ka-ren94/ka-ren94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso técnico de **Desenvolvimento de Sistemas** e recentemente iniciei a **faculdade de Análise e Desenvolvimento de Sistemas** no SENAI. 
 
-Here are some ideas to get you started:
+Atualmente, estou aprimorando minhas habilidades em programação, buscando novos conhecimentos e praticando com projetos práticos. Meu objetivo é me tornar uma profissional qualificada e contribuir com soluções de software que atendam às necessidades de usuários e empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens**: Java, Python, JavaScript, HTML, CSS
+- **Frameworks**: React, Node.js
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git, GitHub, Visual Studio Code, Eclipse IDE
+
+## 📚 Estudo e Aprendizado
+
+- Atualmente, estou aprendendo mais sobre **algoritmos** e **estruturas de dados**, além de me aprofundar em **desenvolvimento web** e **banco de dados**.
+- Busco desenvolver habilidades em **desenvolvimento front-end** e **back-end** para criar soluções completas.
+
+## 📬 Contato
+
+- Email: [karenrossinunes@yahoo.com.br](mailto:karenrossinunes@yahoo.com.br)
+- GitHub: [ka-ren94](https://github.com/ka-ren94)
+
+
